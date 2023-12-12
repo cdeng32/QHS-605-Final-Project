@@ -1,4 +1,4 @@
-setwd("C:/Users/chrde/OneDrive/Desktop/Grad/R and Class/QHS 605/Final Project")
+setwd("path")
 
 #Xport read
 library(foreign)
