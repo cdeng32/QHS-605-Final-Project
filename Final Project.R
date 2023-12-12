@@ -1,5 +1,3 @@
-setwd("path")
-
 #Xport read
 library(foreign)
 
